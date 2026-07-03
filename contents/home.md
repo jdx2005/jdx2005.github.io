@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![jdx2005](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/jdx2005)
 
 I'm currently pursuing a Bachelor's degree in Computer Science and Technology at the Guohao College, Tongji University, Shanghai.
 
