@@ -1,8 +1,10 @@
 - 第一作者（First Author） The 43rd International Conference on Machine Learning (ICML 2026) (CCF-A，机器学习三大会)
-- ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
+
+  ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
 
 - 共同第一作者（Co-First Author） Proceedings of the 34th ACM International Conference on Multimedia (ACM MM 2026) (CCF-A，计算机图形学与多媒体顶会)
-- GaussNote: A Differentiable Note Refinement Model Based on Gaussian Ellipsoid Superposition for Automatic Music Transcription
+
+  GaussNote: A Differentiable Note Refinement Model Based on Gaussian Ellipsoid Superposition for Automatic Music Transcription
 
 - 第一作者（First Author） 28th - International Conference on Pattern Recognition(ICPR 2026) (CORE:B，CCF-C)
 - Lung Cancer Detection Guided by Serum Tumor Markers Based on EfficientNet
