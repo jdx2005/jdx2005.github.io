@@ -54,7 +54,9 @@
 
   Morphological Perception Iterative Memory Networks for Lung Cancer Diagnosis in Pleural Effusion
 
-- 国际期刊《Knowledge-Based System》（IF=7.6）、《PLoS One》（IF=2.6）等SCI期刊以及IEEE SMC（CCF-C）等国际会议独立审稿人（独立审稿超10次）国际期刊《PLoS One》（IF=2.6）、《Computational Economics》（IF=2.2）《Kuwait Journal of Science》（IF=1.1）等SCI期刊以及IEEE SMC（CCF-C）等国际会议独立审稿人（独立审稿超10次）
+- IEEE世界计算智能大会-IEEE国际神经网络联合会议Session Chair，国际期刊《Knowledge-Based System》（IF=8.0）、《PLoS One》（IF=2.8）等SCI期刊以及IEEE SMC等国际会议独立审稿人（独立审稿超10次）
+
+  Session Chair, The International Joint Conference on Neural Networks. Independent reviewer for SCI journals such as Knowledge-Based System(IF=8), PLoS One (IF=2.8), and Kuwait Journal of Science (IF=2.6), as well as international conferences such as IEEE SMC (over 10 independent reviews)
 
 - 第一发明人 发明专利(已公开)		一种肺癌诊断方法及设备
 
