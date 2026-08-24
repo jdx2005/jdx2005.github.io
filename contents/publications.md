@@ -18,15 +18,15 @@
 
   TopoPointPWC: Manifold Topology-Aware Point Cloud Registration via Persistent Homology
 
-- 第一作者（First Author） Sustainability(JCR2区，SCI/SSCI，IF=3.3)
+- 第一作者（First Author） Sustainability(JCR2区，SCI/SSCI，IF=4.1)
 
   Jiang, D.*; Li, Z. Comprehensive Prediction of Regional Natural Gas Hydrate Resources Based on Volume Method Evaluation. Sustainability 2025, 17, 2287. https://doi.org/10.3390/su17052287
 
-- 第一作者（First Author） Electronics(JCR2区，SCI/EI-Compendex，IF=2.6)
+- 第一作者（First Author） Electronics(JCR2区，SCI/EI-Compendex，IF=2.8)
 
   Jiang, D.*; Li, Z. Design of a Comprehensive Intelligent Traffic Network Model for Baltimore with Consideration of Multiple Factors. Electronics 2025, 14, 2222. https://doi.org/10.3390/electronics14112222 (被引3次)
 
-- 第二/通讯作者（Corresponding Author） Scientific Reports(Nature 旗下，JCR Q1，IF=3.9)
+- 第二/通讯作者（Corresponding Author） Scientific Reports(Nature 旗下，JCR Q1，IF=4.9)
 
   Wu, J., Jiang, D. Pathology-prior driven substructure-aware graph neural network for whole slide 	image classification. Sci Rep (2026). https://doi.org/10.1038/s41598-026-53704-z
 
