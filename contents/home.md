@@ -8,7 +8,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science and Technology at
 
 #### Education  
 **Tongji University**, Guohao College, Computer Science and Technology(Elite Class) (Bachelor's)  
-• GPA: 4.88/5.00  (4/87, top 4.6%)  
+• GPA: 4.89/5.00  (4/87, top 4.6%)  
 
 #### Research Interests  
 医学影像分析，计算机视觉，脑疾病检测
