@@ -34,7 +34,7 @@ Medical Image Analysis, Computer Vision, Brain Disease Detection.
 #### My ORCID Homepage  
 [ORCID](https://orcid.org/0009-0003-2978-0047)
 
-#### Advisor
+#### Advisors
 陈谐（上海交通大学 x 上海创智学院，2026- ）
 
 Xie Chen (Shanghai Jiao Tong University x Shanghai Innovation Institute, 2026- )
