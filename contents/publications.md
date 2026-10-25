@@ -8,7 +8,7 @@
 
 - 第一作者（First Author） 28th - International Conference on Pattern Recognition(ICPR 2026) (CORE:B，CCF-C)
 
-  Lung Cancer Detection Guided by Serum Tumor Markers Based on EfficientNet
+  Serum Tumor Marker-Guided Lesion Features Enhancement Network for Lung Cancer Detection
 
 - 第一作者（First Author） IEEE World Congress on Computational Intelligence(WCCI 2026) The International Joint Conference on Neural Networks (IJCNN 2026)(CORE:B，CCF-C)
 
@@ -24,7 +24,7 @@
 
 - 第一作者（First Author） Electronics(JCR2区，SCI/EI-Compendex，IF=2.8)
 
-  Jiang, D.*; Li, Z. Design of a Comprehensive Intelligent Traffic Network Model for Baltimore with Consideration of Multiple Factors. Electronics 2025, 14, 2222. https://doi.org/10.3390/electronics14112222 (被引3次)
+  Jiang, D.*; Li, Z. Design of a Comprehensive Intelligent Traffic Network Model for Baltimore with Consideration of Multiple Factors. Electronics 2025, 14, 2222. https://doi.org/10.3390/electronics14112222
 
 - 第二/通讯作者（Corresponding Author） Scientific Reports(Nature 旗下，JCR Q1，IF=4.9)
 
@@ -32,25 +32,25 @@
 
 - 第二/通讯作者（Corresponding Author） 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)（CCF-C）
 
-  Spectral Alignment and Multi-Scale Guided Regularization for Weakly-Supervised Whole-Slide Image Classification 
+  Spectral Alignment and Multi-Scale Guided Regularization for Weakly-Supervised Whole-Slide Image Classification
+
+- 第二/通讯作者（Corresponding Author） The 18th Asian Conference on Machine Learning (ACML 2026)（CCF-C）
+
+  Spectral Entropy Guided Transition Graph Learning Network for Brain Disease Detection 
 
 - 第一作者（First Author） IJCNN 2026 Late-breaking Paper(CCF-C)
 
   Physiological Time Series Prediction Model Based on Multivariate State Graphs
 
-- 第一作者（First Author） The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) (在投，CCF-A，机器学习顶会)
+- 第一作者（First Author） The Fifteenth International Conference on Learning Representations (ICLR 2027) (在投，CCF-A，机器学习三大会)
 
   Brain Disease Detection Based on Bottom-Up Hierarchical Graph Representation Learning
 
-- 第一作者（First Author） Neurocomputing (在投，JCR2区，IF=6.7)
-
-  A Survey of Graph Networks for Brain Disease Detection
-
-- 第一作者（First Author） Medical Image Analysis (在投，JCR1区，IF=14)
+- 第一作者（First Author） Knowledge-Based System (在投，JCR1区，IF=8)
 
   Multimodal Brain Disease Detection via Hypergraph Neural Network with Hyper-events and Learnable Prompt Nodes
 
-- 第一作者（First Author） Engineering Applications of Artificial Intelligence  (在投，JCR1区，IF=8)
+- 第一作者（First Author） Engineering Applications of Artificial Intelligence  (在投，JCR1区，IF=9)
 
   Morphological Perception Iterative Memory Networks for Lung Cancer Diagnosis in Pleural Effusion
 
