@@ -44,6 +44,11 @@ Xie Chen (Shanghai Jiao Tong University x Shanghai Innovation Institute, 2026- )
 Dongdong Zhang (Tongji University, 2023-2027)
 
 #### Co-Authors
-贾博睿（同济大学），吴佳芮（华中科技大学，中国科学技术大学），吴际洋（中国科学技术大学），余执卓（兰州大学，北京大学），王宇轩（同济大学），黄孚宸（同济大学），姜晨阳（同济大学，上海交通大学），李兆诚（同济大学），杨北辰（南京大学），高可妍（南京农业大学，中国科学院脑科学智能卓越中心），洪斌杰（中国科学院脑科学智能卓越中心），张铁林（中国科学院脑科学智能卓越中心）......
+贾博睿（同济大学），吴佳芮（华中科技大学，中国科学技术大学），吴际洋（中国科学技术大学），余执卓（兰州大学，北京大学），王宇轩（同济大学），黄孚宸（同济大学），姜晨阳（同济大学，上海交通大学），李兆诚（同济大学），杨北辰（南京大学），高可妍（南京农业大学，中国科学院脑科学智能卓越中心），张铁林（中国科学院脑科学智能卓越中心）......
 
-Borui Jia(Tongji University), Jiarui Wu(Huazhong University of Science and Technology, University of Science and Technology of China), Jiyang Wu(University of Science and Technology of China), Zhizhuo Yu(Lanzhou University, Peking University), Yuxuan Wang(Tongji University), Fuchen Huang(Tongji University), Chenyang Jiang(Tongji University, Shanghai Jiao Tong University), Zhaocheng Li(Tongji University), Beichen Yang(Nanjing University), Keyan Gao(Nanjing Agricultural University, CEBSIT, CAS), Binjie Hong(CEBSIT, CAS), Tielin Zhang(CEBSIT, CAS)...
+Borui Jia(Tongji University), Jiarui Wu(Huazhong University of Science and Technology, University of Science and Technology of China), Jiyang Wu(University of Science and Technology of China), Zhizhuo Yu(Lanzhou University, Peking University), Yuxuan Wang(Tongji University), Fuchen Huang(Tongji University), Chenyang Jiang(Tongji University, Shanghai Jiao Tong University), Zhaocheng Li(Tongji University), Beichen Yang(Nanjing University), Keyan Gao(Nanjing Agricultural University, CEBSIT, CAS), Tielin Zhang(CEBSIT, CAS)...
+
+#### Acknowledgment
+• 一路走来，幸有师长与同侪相伴。他们赠我以挑战未知的胆魄，也赠我以冲破暗夜的勇气，人海茫茫，缘分让我们相逢，总有些温柔而明亮的美好，让我相信人间值得。
+
+• Along the way, I have been fortunate to have my mentors and peers by my side. They gave me the courage to challenge the unknown, and the strength to break through the darkness; in the vast sea of people, fate brought us together, and those gentle, luminous moments make me believe that this world is truly worth it.
