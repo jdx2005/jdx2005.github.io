@@ -4,8 +4,6 @@ I'm currently pursuing a Bachelor's degree in Computer Science and Technology at
 
 I will soon pursue a Ph.D. in Computer Science and Technology at Shanghai Jiao Tong University and Shanghai Innovation Institute.
 
-Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=caz70VgAAAAJ
-
 #### Email  
 <code>jdx@tongji.edu.cn</code>  
 
@@ -29,6 +27,9 @@ Speech Recognition, Multi-Speaker ASR (Automatic Speech Recognition).
 医学影像分析，计算机视觉，脑疾病检测（2023-2027）
 
 Medical Image Analysis, Computer Vision, Brain Disease Detection.
+
+#### My Google Scholar Homepage  
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=caz70VgAAAAJ)
 
 #### My ORCID Homepage  
 [ORCID](https://orcid.org/0009-0003-2978-0047)
