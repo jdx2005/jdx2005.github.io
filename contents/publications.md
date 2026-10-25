@@ -1,6 +1,6 @@
 - 第一作者（First Author） The 43rd International Conference on Machine Learning (ICML 2026) (CCF-A，机器学习三大会)
 
-  ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
+  Jiang, D., Jia, B., Wang, Y., & Zhang, D. (2026). ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network. In Proceedings of the 43rd International Conference on Machine Learning (PMLR 306, pp. 52448–52481).
 
 - 共同第一作者（Co-First Author） Proceedings of the 34th ACM International Conference on Multimedia (ACM MM 2026) (CCF-A，计算机图形学与多媒体顶会)
 
@@ -8,11 +8,11 @@
 
 - 第一作者（First Author） 28th - International Conference on Pattern Recognition(ICPR 2026) (CORE:B，CCF-C)
 
-  Serum Tumor Marker-Guided Lesion Features Enhancement Network for Lung Cancer Detection
+  Jiang, D., Zhang, D., & Li, W. (2026, August). Serum Tumor Marker-Guided Lesion Features Enhancement Network for Lung Cancer Detection. In International Conference on Pattern Recognition (pp. 90-105). Cham: Springer Nature Switzerland.
 
 - 第一作者（First Author） IEEE World Congress on Computational Intelligence(WCCI 2026) The International Joint Conference on Neural Networks (IJCNN 2026)(CORE:B，CCF-C)
 
-  Lung Cancer Detection Model Integrating Orthogonal Views and Blood Analysis Indicators for Patients with Pleural Effusion
+  Jiang, D., & Zhang, D. (2026, June). Lung Cancer Detection Model Integrating Orthogonal Views and Blood Analysis Indicators for Patients with Pleural Effusion. In 2026 International Joint Conference on Neural Networks (IJCNN) (pp. 1-6). IEEE.
 
 - 第一作者（First Author） ICLR(CCF-A) 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling（全文准备Nature Machine Intelligence）
 
