@@ -3,9 +3,12 @@
 I'm currently pursuing a Bachelor's degree in Computer Science and Technology at the Guohao College, Tongji University, Shanghai.
 I will soon pursue a Ph.D. in Computer Science and Technology at Shanghai Jiao Tong University and Shanghai Innovation Institute.
 
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=caz70VgAAAAJ
+
 #### Email  
 <code>jdx@tongji.edu.cn</code>  
 <code>dongxjiang05@gmail.com</code>
+
 <code>dongxJiang@outlook.com</code>
 
 #### Education  
